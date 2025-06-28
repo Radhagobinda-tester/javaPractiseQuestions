@@ -26,7 +26,7 @@ public class checkthenumberisprimenumberornot {
     		   return false;
     	   }
        // writting for loop to check the square root
-       for(int i =2; i<Math.sqrt(num);i++) {
+       for(int i =2; i<=Math.sqrt(num);i++) {
     	   
     	   if(num % i ==0) { // Check divisibility from 2 to sqrt(num)
     		 return  false;
