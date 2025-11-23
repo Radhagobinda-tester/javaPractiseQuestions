@@ -20,7 +20,7 @@ public class LeaderNumber {
 //			wriing a if condition 
 			if(a[i]>rightMax) {
 				rightMax = a[i];
-				System.out.println(rightMax);
+				System.out.println("The leader number is "+rightMax);
 			}
 		}
 

@@ -53,9 +53,9 @@ public class JavaInterviewwordQuestions {
         questions.put("What is the super Keyword?", "Used to call the constructor of the superclass.");
         questions.put("What is the this Keyword?", "Used to call the constructor of the same class.");
         questions.put("What is Polymorphism?", "The ability of an object to take multiple forms.");
-        questions.put("What are the Types of Polymorphism?", "Compile-time Polymorphism (Method/Constructor Overloading), Runtime Polymorphism (Method Overriding and Downcasting)");
+        questions.put("What are the Types of Polymorphism?", "Compile-time Polymorphism (Method/Constructor Overloading), Runtime Polymorphism (Method Overloading and Downcasting)");
         questions.put("What is Method Overloading?", "Having multiple methods with the same name but different arguments in the same class.");
-        questions.put("What is Method Overriding?", "Overriding a superclass method in a subclass to provide a new implementation.");
+        questions.put("What is Method Overloading?", "Overloading a superclass method in a subclass to provide a new implementation.");
         questions.put("What is Abstraction?", "Hiding implementation details and only showing essential features.");
         questions.put("What is an Abstract Class?", "A class that can contain both abstract and concrete methods. An object cannot be created for an abstract class.");
         questions.put("What is an Interface?", "A non-primitive user-defined data type that provides 100% abstraction.");

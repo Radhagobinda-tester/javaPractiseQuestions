@@ -19,3 +19,4 @@ public class MoveAllZerosToTheEnd {
 		for(int num :a)
 System.out.println(num + " ");
 	}}
+//  You tube link : https://www.youtube.com/watch?v=V0vmGwinHrg 
