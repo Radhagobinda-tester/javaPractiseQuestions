@@ -17,7 +17,7 @@ public class LeaderNumber {
 //		writing a for loop traversing from left to right 
 		for(int i = a.length-2; i>=0; i--) {
 			
-//			wriing a if condition 
+//			writing a if condition 
 			if(a[i]>rightMax) {
 				rightMax = a[i];
 				System.out.println("The leader number is "+rightMax);
